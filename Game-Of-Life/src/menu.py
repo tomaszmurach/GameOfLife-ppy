@@ -97,7 +97,7 @@ def show_instructions():
 
 
 def presets_menu():
-    """Let the user pick one of your five patterns, or go back."""
+    """Wyswietl użytkownikowi presety do wyboru wraz z opcją cofnięcia się do menu."""
     screen = pygame.display.get_surface()
     pygame.display.set_caption("Select a Preset")
     clock = pygame.time.Clock()
@@ -128,7 +128,6 @@ def presets_menu():
             for b in btns:
                 b.handle(ev)
 
-            # Back button?
             if ev.type == pygame.MOUSEBUTTONDOWN:
                 if btns[-1].rect.collidepoint(ev.pos):
                     pygame.display.set_caption("Game of Life – Main Menu")
@@ -142,10 +141,8 @@ def presets_menu():
 
 
 
-# -----------------------------------------------------------------------------
-# Główna pętla menu
-# -----------------------------------------------------------------------------
 def main():
+    """Główna pętla menu"""
     pygame.init()
     screen = pygame.display.set_mode((400, 400))
     pygame.display.set_caption("Game of Life – Main Menu")

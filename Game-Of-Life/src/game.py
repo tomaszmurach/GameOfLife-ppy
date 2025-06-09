@@ -35,7 +35,7 @@ PANEL_BG = (40, 40, 40)
 # GUI Button
 # -----------------------------------------------------------------------------
 class Button:
-    """Simple clickable button in Pygame.
+    """Prosty przycisk do kliknięcia.
 
     Args:
         rect (pygame.Rect): rectangle definiujący pozycję i rozmiar.

@@ -1,0 +1,7 @@
+presets module
+==============
+
+.. automodule:: presets
+   :members:
+   :show-inheritance:
+   :undoc-members:
