@@ -61,9 +61,9 @@ It simulates Conway's cellular automaton with a fully clickable GUI built using 
 Full code documentation is available locally.
 To open it:
 
-Navigate to the html/ folder
+- Navigate to the html/ folder
+- Open index.html in your browser
 
-Open index.html in your browser
 
 Includes module descriptions, function docstrings, and structure.
 
