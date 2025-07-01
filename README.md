@@ -46,7 +46,8 @@ It simulates Conway's cellular automaton with a fully clickable GUI built using 
    ```bash
    pip install pygame
 2. Run the app:
-  python src/menu.py
+    ```bash
+   python src/menu.py
 
 
 📸 Screenshots
