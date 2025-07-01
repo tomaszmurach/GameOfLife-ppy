@@ -66,6 +66,7 @@ Open index.html in your browser
 
 Includes module descriptions, function docstrings, and structure.
 
-👨‍💻 Author
-Tomasz Murach - https://github.com/tomaszmurach
-Łukasz De Sousa
+👨‍💻 Authors
+- Tomasz Murach - https://github.com/tomaszmurach
+- Łukasz De Sousa
+
