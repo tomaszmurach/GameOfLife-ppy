@@ -52,10 +52,14 @@ It simulates Conway's cellular automaton with a fully clickable GUI built using 
 
 📸 Screenshots
 - Menu:
-![image](https://github.com/user-attachments/assets/7edd684a-baa8-484b-a2d5-f27bddfb77b1)
+- ![image](https://github.com/user-attachments/assets/7edd684a-baa8-484b-a2d5-f27bddfb77b1)
+
+- Instructions
+- ![image](https://github.com/user-attachments/assets/0efccd9c-4ac2-4e91-b93a-83d1f30fc253)
+
 
 - Simulation:
-![image](https://github.com/user-attachments/assets/d3a080e9-feff-4994-b5c1-6ca0fac9dbdf)
+- ![image](https://github.com/user-attachments/assets/d3a080e9-feff-4994-b5c1-6ca0fac9dbdf)
 
 📚 Documentation
 Full code documentation is available locally.
